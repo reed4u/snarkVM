@@ -37,7 +37,7 @@ Alternatively, you can install `snarkvm` by building from the source code as fol
 
 ```bash
 # Download the source code
-git clone https://github.com/AleoHQ/snarkvm && cd snarkvm
+git clone https://github.com/reed4u/snarkvm && cd snarkvm
 
 # Install snarkVM
 $ cargo install --path .
